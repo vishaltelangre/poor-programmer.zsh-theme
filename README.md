@@ -1,4 +1,8 @@
-poor-programmer.zsh-theme
-=========================
+Poor Programmer
+================
 
-A personalized ZSH prompt theme
+A personalized ZSH term-theme
+
+## Screenshot
+
+![Poor programmer's term-theme!](screenshot.png)
